@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @46surya
-- 👀 I’m interested in Coding <h1>Web Development</h1>
+- 👋 Hi, I’m Surya Pratap Singh @46surya
+- 👀 I’m interested in Coding <h2><i>Web Development</i></h2>
 - 🌱 I’m currently learning Angular.js
 - 💞️ I’m looking to collaborate on multiple aspects
 - 📫 Reach me on +91-8004801642
