@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Surya Pratap Singh @46surya
+- Hi, I’m Surya Pratap Singh @46surya, a Front-end developer with 4+ years of experience having worked 3+ years as a React JS Developer.
 - 👀 I’m interested in Coding <h2><i>Web Development</i></h2>
-- 🌱 I’m currently learning Angular.js
+- 🌱 My technologies include HTML5, CSS3, Bootstrap, SASS, JavaScript, React JS, Redux, JQuery, JSON, Ajax.
 - 💞️ I’m looking to collaborate on multiple aspects
 - 📫 Reach me on +91-8004801642
-
-<!---
-46surya/46surya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
