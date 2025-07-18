@@ -9,7 +9,7 @@ Built an enterprise-grade retail data pipeline on AWS for a Fortune 500 client, 
 - Python, PySpark, Terraform
 
 ## Architecture
-[Insert Diagram.png]
+[Diagram_C04.png]
 
 ## Key Features
 - Event-driven ingestion from multiple systems
